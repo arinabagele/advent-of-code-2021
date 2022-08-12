@@ -44,7 +44,7 @@ def check_column_bingo(matrix):
 
 
 input_matrices = []
-with open('puzzle4_data.txt', 'r') as file:
+with open('puzzle4_input.txt', 'r') as file:
     values = [int(num) for num in (file.readline()).split(',')]
     next(file)
     input_matrices = [[int(num) for num in line.split()] for line in file if len(line) > 1]
