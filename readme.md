@@ -6,4 +6,4 @@ These puzzles are my first experience in coding in python.
 
 Each day's task description is provided in the according folder.
 
-My score so far: 9 :star:
+My score so far: 10 :star:
